@@ -2,7 +2,8 @@ import React from "react";
 // import BirthdayReminder from "./BirthdayReminder/BirthdayReminder";
 // import Tours from "./Tours/Tours";
 // import Reviews from "./Reviews/Reviews";
-import Accordion from "./Accordion/Accordion";
+// import Accordion from "./Accordion/Accordion";
+import MenuApp from "./Menu/MenuApp";
 
 const Projects = () => {
 	return (
@@ -10,7 +11,8 @@ const Projects = () => {
 			{/* <BirthdayReminder />; */}
 			{/* <Tours /> */}
 			{/* <Reviews /> */}
-			<Accordion />
+			{/* <Accordion /> */}
+			<MenuApp />
 		</div>
 	);
 };

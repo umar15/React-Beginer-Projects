@@ -1,10 +1,11 @@
 import React from "react";
+import Slider from "./Slider/Slider";
 // import BirthdayReminder from "./BirthdayReminder/BirthdayReminder";
 // import Tours from "./Tours/Tours";
 // import Reviews from "./Reviews/Reviews";
 // import Accordion from "./Accordion/Accordion";
 // import MenuApp from "./Menu/MenuApp";
-import Tabs from "./Tabs/Tabs";
+// import Tabs from "./Tabs/Tabs";
 
 const Projects = () => {
 	return (
@@ -14,7 +15,8 @@ const Projects = () => {
 			{/* <Reviews /> */}
 			{/* <Accordion /> */}
 			{/* <MenuApp /> */}
-			<Tabs />
+			{/* <Tabs /> */}
+			<Slider />
 		</div>
 	);
 };

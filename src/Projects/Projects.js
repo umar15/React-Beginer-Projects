@@ -3,7 +3,8 @@ import React from "react";
 // import Tours from "./Tours/Tours";
 // import Reviews from "./Reviews/Reviews";
 // import Accordion from "./Accordion/Accordion";
-import MenuApp from "./Menu/MenuApp";
+// import MenuApp from "./Menu/MenuApp";
+import Tabs from "./Tabs/Tabs";
 
 const Projects = () => {
 	return (
@@ -12,7 +13,8 @@ const Projects = () => {
 			{/* <Tours /> */}
 			{/* <Reviews /> */}
 			{/* <Accordion /> */}
-			<MenuApp />
+			{/* <MenuApp /> */}
+			<Tabs />
 		</div>
 	);
 };

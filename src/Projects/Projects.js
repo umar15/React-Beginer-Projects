@@ -9,7 +9,8 @@ import React from "react";
 // import LoremIpsum from "./LoremIpsum/LoremIpsum";
 // import ColorGenerator from "./ColorGenerator/ColorGenerator";
 // import Grocery from "./GroceryBud/Grocery";
-import Nav from "./Navbar/Nav";
+// import Nav from "./Navbar/Nav";
+import Side from "./Sidebar/Side";
 
 const Projects = () => {
 	return (
@@ -24,7 +25,8 @@ const Projects = () => {
 			{/* <LoremIpsum /> */}
 			{/* <ColorGenerator /> */}
 			{/* <Grocery /> */}
-			<Nav />
+			{/* <Nav /> */}
+			<Side />
 		</div>
 	);
 };

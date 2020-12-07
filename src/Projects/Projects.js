@@ -6,7 +6,8 @@ import React from "react";
 // import Accordion from "./Accordion/Accordion";
 // import MenuApp from "./Menu/MenuApp";
 // import Tabs from "./Tabs/Tabs";
-import LoremIpsum from "./LoremIpsum/LoremIpsum";
+// import LoremIpsum from "./LoremIpsum/LoremIpsum";
+import ColorGenerator from "./ColorGenerator/ColorGenerator";
 
 const Projects = () => {
 	return (
@@ -18,7 +19,8 @@ const Projects = () => {
 			{/* <MenuApp /> */}
 			{/* <Tabs /> */}
 			{/* <Slider /> */}
-			<LoremIpsum />
+			{/* <LoremIpsum /> */}
+			<ColorGenerator />
 		</div>
 	);
 };

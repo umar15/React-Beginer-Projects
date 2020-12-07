@@ -7,7 +7,8 @@ import React from "react";
 // import MenuApp from "./Menu/MenuApp";
 // import Tabs from "./Tabs/Tabs";
 // import LoremIpsum from "./LoremIpsum/LoremIpsum";
-import ColorGenerator from "./ColorGenerator/ColorGenerator";
+// import ColorGenerator from "./ColorGenerator/ColorGenerator";
+import Grocery from "./GroceryBud/Grocery";
 
 const Projects = () => {
 	return (
@@ -20,7 +21,8 @@ const Projects = () => {
 			{/* <Tabs /> */}
 			{/* <Slider /> */}
 			{/* <LoremIpsum /> */}
-			<ColorGenerator />
+			{/* <ColorGenerator /> */}
+			<Grocery />
 		</div>
 	);
 };

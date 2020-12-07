@@ -8,7 +8,8 @@ import React from "react";
 // import Tabs from "./Tabs/Tabs";
 // import LoremIpsum from "./LoremIpsum/LoremIpsum";
 // import ColorGenerator from "./ColorGenerator/ColorGenerator";
-import Grocery from "./GroceryBud/Grocery";
+// import Grocery from "./GroceryBud/Grocery";
+import Nav from "./Navbar/Nav";
 
 const Projects = () => {
 	return (
@@ -22,7 +23,8 @@ const Projects = () => {
 			{/* <Slider /> */}
 			{/* <LoremIpsum /> */}
 			{/* <ColorGenerator /> */}
-			<Grocery />
+			{/* <Grocery /> */}
+			<Nav />
 		</div>
 	);
 };

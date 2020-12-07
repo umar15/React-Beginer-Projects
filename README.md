@@ -11,6 +11,8 @@
  8. Lorem Ipsum Generator
  9. Accordion
  10. Grocery Bud (Todolist type App)
+ 11. Navbar using useRef
+ 12. Sidebar using Context API
  
 # How to run a specific project? #
  * Clone or download this repository.

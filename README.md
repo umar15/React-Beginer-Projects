@@ -10,7 +10,7 @@
  7. Reviews
  8. Lorem Ipsum Generator
  9. Accordion
- 10. Grocery Bud (Notepad type App)
+ 10. Grocery Bud (Todolist type App)
  
 # How to run a specific project? #
  * Clone or download this repository.

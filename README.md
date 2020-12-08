@@ -1,5 +1,5 @@
 # React-Beginner-Projects
- This repository consists of 10+ react beginner projects. The projects includes:
+ This repository consists of 12 react beginner projects. The projects includes:
  
  1. Birthday Reminder
  2. Color Generator

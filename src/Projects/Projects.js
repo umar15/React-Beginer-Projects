@@ -5,12 +5,12 @@ import React from "react";
 // import Reviews from "./Reviews/Reviews";
 // import Accordion from "./Accordion/Accordion";
 // import MenuApp from "./Menu/MenuApp";
-// import Tabs from "./Tabs/Tabs";
+import Tabs from "./Tabs/Tabs";
 // import LoremIpsum from "./LoremIpsum/LoremIpsum";
 // import ColorGenerator from "./ColorGenerator/ColorGenerator";
 // import Grocery from "./GroceryBud/Grocery";
 // import Nav from "./Navbar/Nav";
-import Side from "./Sidebar/Side";
+// import Side from "./Sidebar/Side";
 
 const Projects = () => {
 	return (
@@ -20,13 +20,13 @@ const Projects = () => {
 			{/* <Reviews /> */}
 			{/* <Accordion /> */}
 			{/* <MenuApp /> */}
-			{/* <Tabs /> */}
+			<Tabs />
 			{/* <Slider /> */}
 			{/* <LoremIpsum /> */}
 			{/* <ColorGenerator /> */}
 			{/* <Grocery /> */}
 			{/* <Nav /> */}
-			<Side />
+			{/* <Side /> */}
 		</div>
 	);
 };

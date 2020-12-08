@@ -1,5 +1,5 @@
 # React-Beginner-Projects
- This repository consists of 10+ react beginner projects. The projects includes:
+ This repository consists of 12 react beginner projects. The projects includes:
  
  1. Birthday Reminder
  2. Color Generator
@@ -11,6 +11,8 @@
  8. Lorem Ipsum Generator
  9. Accordion
  10. Grocery Bud (Todolist type App)
+ 11. Navbar using useRef
+ 12. Sidebar using Context API
  
 # How to run a specific project? #
  * Clone or download this repository.
